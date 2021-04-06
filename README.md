@@ -1,5 +1,5 @@
 ![Lyci](https://telegra.ph/file/e49146459099415d48157.jpg)
-# Mizuki Bot
+# Lyci Bot
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
