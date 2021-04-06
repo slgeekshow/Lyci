@@ -38,7 +38,7 @@ def github(update, context):
         ]
 
         difnames = {
-            "name":"Name 🤫",
+            "name": "Name 🤫",
             "id": "Account ID 🆔",
             "type": "Account type ♾",
             "created_at": "Account created at 📅",
@@ -47,7 +47,7 @@ def github(update, context):
             "public_gists": "Public Gists 🗞",
             "bio": "Bio 😇",
             "followers": "Followers 🤩",
-            "following":"Following 👣",
+            "following": "Following 👣",
         }
 
         goaway = [None, 0, "null", ""]
