@@ -1,14 +1,14 @@
-![Mizuki](https://telegra.ph/file/c29b03079941d69c19504.jpg)
+![Lyci](https://telegra.ph/file/e49146459099415d48157.jpg)
 # Mizuki Bot
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [Mizuki](https://t.me/TheMizukiBot)
+Can be found on telegram as [LyciBot](https://t.me/LyciBot)
 
-The Support group can be reached out to at [Infinity JE](https://t.me/InfinityJEOT), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [HiTech Rockets](https://t.me/HiTechRockets), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
+Updates channel as at [HiTechRocket](https://t.me/HiTechRocket)
 
 ## How to setup or deploy
 
@@ -20,7 +20,7 @@ Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Mizuki/tree/Mizuki) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/Lyci) 
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
