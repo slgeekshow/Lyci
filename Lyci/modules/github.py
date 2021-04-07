@@ -40,7 +40,7 @@ def github(update, context):
         difnames = {
             "name": "Name 🤫",
             "id": "Account ID 🆔",
-            "type": "Account type ♾",
+            "type": "Account type 🎩",
             "created_at": "Account created at 📅",
             "updated_at": "Last updated 🔄",
             "public_repos": "Public Repos 👩‍👩‍👧‍👧",
