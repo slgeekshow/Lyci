@@ -1,7 +1,8 @@
 __help__ = """
-*Lyci - A Powerful Telegram Group Manager 🎶
-Powerful Abilities*
-• Group Voice Chat Music Play ❤
+*• Group Voice Chat Music Play 🎧 * \n
+
+In Order For Your Group Songs to Play Through Lyci Bot, You Must First Add @LyciAssistant to Your Group and be Promoted to @LyciBot Group Admin. \n \n 
+  
 /play - 🎶 Play the replied audio file or YouTube video \n
 /pause - ▶️ Pause the audio stream \n
 /resume - ⏸ Resume the audio stream \n
