@@ -1,20 +1,16 @@
 __help__ = """
 *Lyci - A Powerful Telegram Group Manager 🎶
 
-Cool Abilities*
+Powerful Abilities*
 
 • Group Voice Chat Music Play ❤
 
 • File To Link and URL Upload 📂
 
-• Youtube Downloader 🎬
+• Youtube Downloader 🎵
 
-• Song Download 🎵
+Developer [𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖 •••](http://t.me/prabha_sha) 🇱🇰
 
-Developer @Prabha_sha 🇱🇰
- 
-The Special Thanks For [Randunu](https://t.me/Randunu98) ❤️
-
-Source On Github  [𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖 •••](https://github.com/Prabhasha-p/Lyci)"""
+[GitHub](https://github.com/Prabhasha-p)"""
 
 __mod_name__ = "About 🇱🇰"
