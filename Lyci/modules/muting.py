@@ -34,7 +34,7 @@ def check_user(user_id: int, bot: Bot, chat: Chat) -> Optional[str]:
             raise
 
     if user_id == bot.id:
-        reply = "I'm not Mute Me Myself, How high are you?"
+        reply = "I'm not gonna MUTE myself, How high are you?"
         return reply
 
     if is_user_admin(chat, user_id, member) or user_id in TIGERS:
@@ -87,7 +87,7 @@ def mute(update: Update, context: CallbackContext) -> str:
         return log
 
     else:
-        message.reply_text("This user is already muted! 😆")
+        message.reply_text("This user is already muted!")
 
     return ""
 
@@ -239,9 +239,9 @@ def temp_mute(update: Update, context: CallbackContext) -> str:
 
 __help__ = """
 *Admins only:*
- •  /mute `<userhandle>`*:* silences a user. Can also be used as a reply, muting the replied to user.
- •  /tmute `<userhandle> x(m/h/d)`*:* mutes a user for x time. (via handle, or reply). `m` = `minutes`, `h` = `hours`, `d` = `days`.
- •  /unmute <userhandle>`*:* unmutes a user. Can also be used as a reply, muting the replied to user.
+ •  /mute `<userhandle>` *:* silences a user. Can also be used as a reply, muting the replied to user.
+ •  /tmute `<userhandle> x(m/h/d)` *:* mutes a user for x time. (via handle, or reply). `m` = `minutes`, `h` = `hours`, `d` = `days`.
+ •  /unmute `<userhandle>` *:* unmutes a user. Can also be used as a reply, muting the replied to user.
 """
 
 MUTE_HANDLER = CommandHandler("mute", mute)
