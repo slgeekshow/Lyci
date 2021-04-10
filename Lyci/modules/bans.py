@@ -78,12 +78,12 @@ def ban(update: Update, context: CallbackContext) -> str:
             return log_message
         elif user_id in DEMONS:
             message.reply_text(
-                "Bring an order from Lyci association to fight a Demon disaster."
+                "Bring an order from Mizuki association to fight a Demon disaster."
             )
             return log_message
         elif user_id in TIGERS:
             message.reply_text(
-                "Bring an order from Lyci association to fight a Tiger disaster."
+                "Bring an order from Mizuki association to fight a Tiger disaster."
             )
             return log_message
         elif user_id in WOLVES:
@@ -405,8 +405,8 @@ __help__ = """
  •  /punchme *:* punchs the user who issued the command
 
 *Admins only:*
- •  /ban `<userhandle>`*:* bans a user. (via handle, or reply)
- •  /tban `<userhandle> `x(m/h/d)`*:* bans a user for `x` time. (via handle, or reply). `m` = `minutes`, `h` = `hours`, `d` = *days.*
+ •  /ban `<userhandle>` *:* bans a user. (via handle, or reply)
+ •  /tban `<userhandle> x(m/h/d)` *:* bans a user for `x` time. (via handle, or reply). `m` = `minutes`, `h` = `hours`, `d` = `days`.
  •  /unban `<userhandle>` *:* unbans a user. (via handle, or reply)
  •  /kick `<userhandle>` *:* Punches a user out of the group, (via handle, or reply)
 """
