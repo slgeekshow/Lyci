@@ -95,10 +95,9 @@ I'm a Powerful group management bot, here to help you get around and keep the or
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-Lyci_IMG = "https://telegra.ph/file/e49146459099415d48157.jpg"
+Lyci_IMG = " https://telegra.ph/file/bd9ff2dcd9f7f0afffeba.jpg"
 
-DONATE_STRING = """Hey, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖 •••](t.me/Prabha_sha) 🥺💔"""
-
+DONATE_STRING = "hi"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -214,7 +213,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add Lyci to your Group",
+                                text="➕ Add Me to your Group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -223,21 +222,21 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="👥 Support Group",
-                                url=f"https://t.me/GalaxyLanka",
+                                url=f"https://t.me/ @supunmasl",
                             ),
                             InlineKeyboardButton(
                                 text="📌 Updates Channel",
-                                url="https://t.me/GalaxyLanka",
+                                url="https://t.me/ @FreeNetSL",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="Soure Code 📕",
-                                url=f"https://github.com/prabhasha-p/Lyci",
+                                url=f"https://github.com/yakari.com",
                             ),
                             InlineKeyboardButton(
                                 text="Developer 🇱🇰",
-                                url="https://t.me/Prabha_sha",
+                                url="https://t.me/@supunma",
                             ),
                         ],
                     ]
